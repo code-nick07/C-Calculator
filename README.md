@@ -1,2 +1,13 @@
-# C-Calculator
-A simple calculator program written in C that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+# C Calculator
+
+A simple calculator program written in C.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Run
+gcc calculator.c -o calculator
+./calculator
